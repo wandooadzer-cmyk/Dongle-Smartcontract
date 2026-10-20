@@ -33,3 +33,5 @@ issue.md
 __pycache__/
 *.py[cod]
 .pytest_cache/
+config.bat
+node_modules
