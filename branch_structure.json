@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/batch-review-moderation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/batch-review-moderation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/batch-review-moderation",
+    "origin"
+  ]
+}
